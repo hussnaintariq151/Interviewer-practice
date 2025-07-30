@@ -1,0 +1,16 @@
+langgraph
+langchain
+langchain-openai
+python-dotenv
+deepface
+praat-parselmouth
+openai-whisper
+torch
+numpy
+opencv-python-headless
+tf-keras
+fer
+opencv-python
+pyAudioAnalysis
+pyaudio
+faster-whisper
